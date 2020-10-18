@@ -1,0 +1,3 @@
+First post from python!
+Brennan
+I just inserted a post into the database using python!
